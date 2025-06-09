@@ -14,11 +14,4 @@ It uses a time-derived seed to encrypt a message and encodes the result visually
 ## 🔄 Decryption
 To decrypt, you need the board and the original time.
 
-## Project structure
-ticklock/
-├── ticklock.py       
-├── example_run.py    
-├── README.md             
-├── .gitignore            
-└── requirements.txt       
 
