@@ -1,5 +1,5 @@
 # tick-lock
-This repository is my take on the second StackOverflow challenge.
+This repository is my take on the `Code Challenge #2` of StackOverflow.
 
 `tick-lock` is a time-based encryption system that traps a message in the moment it was created. 
 It uses a time-derived seed to encrypt a message and encodes the result visually in a chessboard.
